@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calc</string>
+
+    <string name="Bu0">0</string>
+    <string name="Bu1">1</string>
+    <string name="Bu2">2</string>
+    <string name="Bu3">3</string>
+    <string name="Bu4">4</string>
+    <string name="Bu5">5</string>
+    <string name="Bu6">6</string>
+    <string name="Bu7">7</string>
+    <string name="Bu8">8</string>
+    <string name="Bu9">9</string>
+
+    <string name="Umnojit">*</string>
+    <string name="Podelit">/</string>
+    <string name="Pribavit">+</string>
+    <string name="Otnat">-</string>
+    <string name="Ocistka">C</string>
+
+    <string name="Rezltirovat">=</string>
+
+    <string name="Row1Layout">Row1</string>
+    <string name="Row2Layout">Row2</string>
+    <string name="Row3Layout">Row3</string>
+    <string name="Row4Layout">Row4</string>
+
+</resources>
