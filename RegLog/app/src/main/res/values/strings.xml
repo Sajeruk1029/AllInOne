@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Reg&amp;Log</string>
+
+    <string name="ButLogin">Log in</string>
+    <string name="ButReg">Sign in</string>
+
+    <string name="HintName">Name</string>
+    <string name="HintLogin">Login</string>
+    <string name="HintPost">Email</string>
+    <string name="HintPassword">Password</string>
+
+    <string name="ToggleOff">User</string>
+    <string name="ToggleON">Admin</string>
+
+    <string name="ButClickCreate">Create</string>
+    <string name="ButClickLogin">Log in</string>
+
+</resources>

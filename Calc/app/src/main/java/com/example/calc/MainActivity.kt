@@ -237,6 +237,7 @@ class MainActivity : AppCompatActivity() {
 
         if(otobr.text.toString().indexOf("Log") >= 0)
         {
+
             res.setText((log10(otobr.text.toString().split("Log(")[1].trim('(').toFloat()).toString()))
             //Toast.makeText(applicationContext, otobr.text.toString().split("Log(")[1], Toast.LENGTH_SHORT).show()
         }
